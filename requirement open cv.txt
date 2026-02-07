@@ -1,0 +1,6 @@
+!#
+pip install opencv-python imutils
+
+only requirement for project 1
+just simple motion tracker 
+use camera and python 
